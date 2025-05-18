@@ -2,7 +2,7 @@
 title: BY Blog
 SEOTitle: Torrance的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: bingtang757@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, Torrance, bing757"
 url: "http://bing757.github.io"          # your host, for absolute URL
@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+disqus_username: Torrance
 
 # Gitalk
 gitalk:
