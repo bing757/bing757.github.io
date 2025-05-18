@@ -12,7 +12,7 @@ github_repo: "https://github.com/bing757/bing757.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/channels4_profile.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/moyu.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
